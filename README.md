@@ -1,3 +1,4 @@
 # learn-git
+Here is my first GitHub repository. Let's get started with GitHub
 
-Readme edited manually. This filw was modified locally
+This line was modified manually during conflicts resolution
